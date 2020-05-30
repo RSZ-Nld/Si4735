@@ -10,14 +10,17 @@ Change the encoder pins:
 #define ENCODER_PIN_A 2
 #define ENCODER_PIN_B 3
 
-// Buttons controllers
-#define MODE_SWITCH 4      // Switch MODE (Am/LSB/USB)
-#define BANDWIDTH_BUTTON 5 // Used to select the banddwith. Values: 1.2, 2.2, 3.0, 4.0, 0.5, 1.0 KHz
-#define VOL_UP 6           // Volume Up
-#define VOL_DOWN 7         // Volume Down
-#define BAND_BUTTON_UP 8   // Next band
-#define BAND_BUTTON_DOWN 9 // Previous band
-#define AGC_SWITCH 11      // Switch AGC ON/OF
-#define STEP_SWITCH 10     // Used to select the increment or decrement frequency step (1, 5 or 10 KHz)
-#define BFO_SWITCH 13      // Used to select the enconder control (BFO or VFO)
-//#define BFO_SWITCH 14 // A0 (Alternative to the pin 13). Used to select the enconder control (BFO or VFO)
+## Schematic
+“Diagram”
+![Schematic]( https://github.com/RSZ-Nld/Si4735/blob/master/Si4735.JPG)
+## Photos
+### “Top Pcb Finish”
+![Top]( https://github.com/RSZ-Nld/Si4735/blob/master/109.jpg)
+### “Top Pcvb Finish 2”
+![Photo 1]( https://github.com/RSZ-Nld/Si4735/blob/master/431.jpg)
+### “Bottom Finish”
+![Photo 2]( https://github.com/RSZ-Nld/Si4735/blob/master/5152.jpg)
+### “Bottom Pcb”
+![Photo 3]( https://github.com/RSZ-Nld/Si4735/blob/master/616.jpg)
+### “Top Pcb”
+![Photo 4]( https://github.com/RSZ-Nld/Si4735/blob/master/626.jpg)
