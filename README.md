@@ -14,7 +14,7 @@ Change the encoder pins:
 “Diagram”
 ![Schematic]( https://github.com/RSZ-Nld/Si4735/blob/master/Si4735_Radio.JPG)
 “Parts list”
-![List]( https://github.com/RSZ-Nld/Si4735/blob/master/Parts-List.pdf)
+![List]( https://github.com/RSZ-Nld/Si4735/blob/master/Part-List.pdf)
 ## Photos
 ### “Top Pcb Finish”
 ![Top]( https://github.com/RSZ-Nld/Si4735/blob/master/109.jpg)
