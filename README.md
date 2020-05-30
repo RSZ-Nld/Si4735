@@ -27,4 +27,4 @@ Change the encoder pins:
 ### “Top Pcb”
 ![Photo 4]( https://github.com/RSZ-Nld/Si4735/blob/master/626.jpg)
 ### “Top Pcb parts place”
-![Photo 5]( https://github.com/RSZ-Nld/Si4735/blob/master/Parts.jpg)
+![Photo 5]( https://github.com/RSZ-Nld/Si4735/blob/master/Parts.JPG)
